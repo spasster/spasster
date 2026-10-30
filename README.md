@@ -9,37 +9,30 @@
 
 <sub>nelindanila7@gmail.com · Moscow, hybrid or remote · English B2 · <a href="https://github.com/spasster/Portfolio">на русском →</a></sub>
 
+<br><br>
+
+<img src="assets/about.svg" alt="I build services end to end and run them in production myself. DevOps / SRE: Docker Compose, GitHub Actions, Prometheus, Grafana, Loki. Fullstack: Vue 3, Nuxt, NestJS, TypeScript, Python. Looking for junior DevOps / SRE, open to fullstack." width="100%">
+
 </div>
 
-### About
+## Projects
 
-I build services end to end and run them in production myself: frontend, API, queues, deploys, alerts, dashboards, backups.
+<p align="center">
+  <a href="https://sol-meme.com"><img src="assets/card-solmeme.svg" alt="SolMeme / SolPump" width="49%"></a>
+  <a href="https://github.com/spasster/MTC-SRE"><img src="assets/card-mtc-sre.svg" alt="MTC SRE" width="49%"></a>
+  <a href="https://github.com/spasster/lotty-ab-platform"><img src="assets/card-lotty.svg" alt="Lotty" width="49%"></a>
+  <a href="https://t.me/polyxcopy_bot"><img src="assets/card-polyx.svg" alt="PolyX" width="49%"></a>
+</p>
 
-- **DevOps / SRE:** Docker Compose, GitHub Actions, Prometheus, Grafana, Loki, Sentry. SolMeme has been in production for ~1 year. Tech lead of the MTS SRE case on k3s — 2nd place.
-- **Fullstack:** Vue 3, Nuxt, NestJS, TypeScript, Python. Built SolMeme and SolPump from scratch and solo; PolyX in production since May 2026.
-- **Looking for:** an internship or a junior DevOps / SRE role, open to fullstack too. PROD 2026 finalist · Technostrelka 2025, 1st place.
+## Stack
 
-### Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,githubactions,nginx,ansible,kubernetes,prometheus,grafana,sentry&perline=9" alt="Ops: Linux, Docker, GitHub Actions, Nginx, Ansible, Kubernetes, Prometheus, Grafana, Sentry"><br><br>
+  <img src="https://skillicons.dev/icons?i=ts,vue,nuxtjs,vite,tailwind,nestjs,nodejs,py,go&perline=9" alt="Dev: TypeScript, Vue, Nuxt, Vite, Tailwind, NestJS, Node.js, Python, Go"><br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=9" alt="Data: PostgreSQL, MongoDB, Redis">
+</p>
 
-**Ops**<br>
-<img src="https://skillicons.dev/icons?i=linux,docker,githubactions,nginx,ansible,kubernetes,prometheus,grafana,sentry&perline=9" alt="Linux, Docker, GitHub Actions, Nginx, Ansible, Kubernetes, Prometheus, Grafana, Sentry">
-
-**Dev**<br>
-<img src="https://skillicons.dev/icons?i=ts,vue,nuxtjs,vite,tailwind,nestjs,nodejs,py,go&perline=9" alt="TypeScript, Vue, Nuxt, Vite, Tailwind, NestJS, Node.js, Python, Go">
-
-**Data**<br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=9" alt="PostgreSQL, MongoDB, Redis">
-
-Also: Alertmanager · Loki · Tempo · Alloy · Blackbox · Helm · Istio · Chaos Mesh · k6 · ClickHouse · BullMQ · Socket.IO · Pinia · aiogram
-
-### Projects
-
-| Project | About |
-|---|---|
-| [**SolMeme / SolPump**](https://sol-meme.com) | Solana token launchpad + price bets. Vue 3 + NestJS, solo from scratch. ~1 year in prod: CI/CD over SSH, daily backups; SolPump (beta) has 14 alerts and 6 dashboards |
-| [**MTC SRE**](https://github.com/spasster/MTC-SRE) | Observability & self-healing on k3s, MTS case — **2nd place**. Tech lead of 4: architecture, SLO 99.5% / p95 < 300 ms, self-healing limits |
-| [**Lotty**](https://github.com/spasster/lotty-ab-platform) | A/B testing platform, PROD 2026 finals. NestJS backend + infra solo: 281 unit tests, e2e CI on real DBs, k6, 5 dashboards |
-| [**PolyX**](https://t.me/polyxcopy_bot) | Polymarket copy-trading. Nuxt 4 site, Python bot and workers; in prod since May 2026 (systemd + Compose) |
+<p align="center"><sub>Alertmanager · Loki · Tempo · Alloy · Blackbox · Helm · Istio · Chaos Mesh · k6 · ClickHouse · BullMQ · Socket.IO · aiogram</sub></p>
 
 <div align="center">
 
